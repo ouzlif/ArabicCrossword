@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كلمات متقاطعة</string>
+    <string name="timer">00:00</string>
+    <string name="coins">🪙 50</string>
+    <string name="hint_button">💡 تلميح</string>
+    <string name="check_button">✓ فحص</string>
+    <string name="reset_button">🔄 إعادة</string>
+    <string name="progress">التقدم: 0 / 0</string>
+    <string name="title">كلمات متقاطعة</string>
+</resources>
